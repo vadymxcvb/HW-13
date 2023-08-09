@@ -1,1 +1,204 @@
+.hlis-t {
+  /* Meet our team */
 
+position: absolute;
+width: 232px;
+height: 37px;
+left: 844px;
+top: 736px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+font-variant: all-small-caps;
+
+color: #333333;
+
+
+}
+.item {
+  /* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. */
+
+position: absolute;
+width: 1104px;
+height: 47px;
+left: 408px;
+top: 858px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #B6B6B6;
+
+
+}
+.img-1 {
+  /* first-man 1 */
+
+position: absolute;
+width: 380px;
+height: 470px;
+left: 360px;
+top: 932px;
+
+background: url(first-man.png);
+
+}
+.h-1 {
+  /* Matthew Dix */
+
+position: absolute;
+width: 89px;
+height: 17px;
+left: 507px;
+top: 1432px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+font-variant: all-small-caps;
+
+color: #333333;
+
+
+}
+.p-1 {
+  /* Graphic Design */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 501px;
+top: 1460px;
+
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #B6B6B6;
+
+
+}
+.img-2 {
+  /* second-man 1 */
+
+position: absolute;
+width: 380px;
+height: 470px;
+left: 770px;
+top: 932px;
+
+background: url(second-man.png);
+
+}
+.h-2 {
+  /* Christopher Campbell */
+
+position: absolute;
+width: 161px;
+height: 17px;
+left: 883px;
+top: 1432px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+font-variant: all-small-caps;
+
+color: #333333;
+
+
+}
+.p-2 {
+/* Branding/UX design */
+
+position: absolute;
+width: 129px;
+height: 18px;
+left: 898px;
+top: 1460px;
+
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #B6B6B6;
+
+
+}
+.img-3 {
+  /* third-man 1 */
+
+position: absolute;
+width: 380px;
+height: 470px;
+left: 1180px;
+top: 932px;
+
+background: url(third-man.png);
+
+}
+.h-3{
+  /* Michael Fertig */
+
+position: absolute;
+width: 105px;
+height: 17px;
+left: 1319px;
+top: 1432px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+font-variant: all-small-caps;
+
+color: #333333;
+
+}
+.p-3 {
+  /* Developer */
+
+position: absolute;
+width: 64px;
+height: 18px;
+left: 1338px;
+top: 1459px;
+
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 300;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #B6B6B6;
+
+}
